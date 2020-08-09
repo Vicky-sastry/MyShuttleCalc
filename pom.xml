@@ -6,7 +6,7 @@
 
     <groupId>com.microsoft.exampledep</groupId>
     <artifactId>MyShuttleCalc</artifactId>
-    <version>${buildversion}</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
     <build>
         <finalName>MyShuttleCalc</finalName>
@@ -51,8 +51,8 @@
     </dependencies>
     <repositories>
         <repository>
-            <id><!-- id of feed from Connect to Feed dialog in VSTS !--></id>
-            <url><!-- url of feed from Connect to Feed dialog in VSTS !--></url>
+            <id>1</id>
+            <url>1</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
